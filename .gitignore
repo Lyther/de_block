@@ -1,0 +1,9 @@
+# Compiling files
+/target
+Cargo.lock
+
+# Cache files & test files
+src/files/
+
+# IDE files
+.idea/
