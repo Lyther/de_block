@@ -1,9 +1,12 @@
 # Compiling files
 /target
-Cargo.lock
 
 # Cache files & test files
 src/files/
 
 # IDE files
 .idea/
+
+# Other binaries
+front-end/project.mobirise
+front-end/scratch.drawio
